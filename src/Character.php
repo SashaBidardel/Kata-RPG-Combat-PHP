@@ -52,6 +52,7 @@ class Character {
      $character->alive = false;
     }
     hoal
+    hola
 }
 }
 
